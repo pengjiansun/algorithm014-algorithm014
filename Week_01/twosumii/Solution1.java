@@ -1,5 +1,7 @@
 package com.sunpj.algorithms.leetcode.twosumii;
-
+/*
+ * 有序数组的两数之和
+ * */
 public class Solution1 {
     public int[] twoSum(int[] numbers, int target) {
         int low = 0;
